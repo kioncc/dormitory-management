@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dormitory management", "dormitory management\dormitory management.csproj", "{4F06D925-107B-44CA-9198-387B30702E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{AB7B221A-E86C-4860-837A-5B54BDEA2FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F06D925-107B-44CA-9198-387B30702E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F06D925-107B-44CA-9198-387B30702E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F06D925-107B-44CA-9198-387B30702E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F06D925-107B-44CA-9198-387B30702E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7B221A-E86C-4860-837A-5B54BDEA2FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7B221A-E86C-4860-837A-5B54BDEA2FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7B221A-E86C-4860-837A-5B54BDEA2FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7B221A-E86C-4860-837A-5B54BDEA2FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32E7543F-C44C-4254-B1E5-9ABA25BDE1F3}
+	EndGlobalSection
+EndGlobal
